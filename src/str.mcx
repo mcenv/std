@@ -1,0 +1,1 @@
+export def to_str(self : str) : str := self;

@@ -1,0 +1,3 @@
+export def min_value : i16 := -32768i16;
+
+export def max_value : i16 := 32767i16;
