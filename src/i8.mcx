@@ -1,3 +1,0 @@
-export def min_value : i8 := -128i8;
-
-export def max_value : i8 := 127i8;

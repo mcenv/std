@@ -1,3 +1,0 @@
-export def min_value : i64 := -9223372036854775808i64;
-
-export def max_value : i64 := 9223372036854775807i64;

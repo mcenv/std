@@ -1,3 +1,0 @@
-export def min_value : f32 := 1.4e-45f32;
-
-export def max_value : f32 := 3.4028235e38f32;

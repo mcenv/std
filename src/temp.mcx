@@ -1,0 +1,2 @@
+#| A temporary definition for testing
+export def test : wtf16 := "std";

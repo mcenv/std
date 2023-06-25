@@ -1,2 +1,0 @@
-export def to_str(a : bool) : str :=
-  if a then "true" else "false";
